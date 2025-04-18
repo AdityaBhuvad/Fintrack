@@ -1,0 +1,81 @@
+.category-container {
+  background-color: aliceblue;
+  padding: 30px;
+  width: 450px;
+  border-radius: 15px;
+  box-shadow: 0px 0px 8px lightblue;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  right: 20px;
+  top: 100px;
+  z-index: 100;
+}
+.category-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+.category-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  align-items: center;
+}
+.category-form input[type="text"] {
+  padding: 5px 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 100%;
+}
+.category-form input[type="submit"] {
+  padding: 5px 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 30%;
+}
+hr {
+  width: 100%;
+  border: 1px solid black;
+  margin-top: 10px;
+}
+.category-list {
+  width: 100%;
+  text-align: center;
+  height: 300px;
+  overflow-y: scroll;
+}
+.category-list::-webkit-scrollbar{
+  display: none;
+}
+.category-list table {
+  width: 100%;
+  border: 1px solid black;
+  margin-top: 10px;
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.category-list thead tr th {
+  background-color: aquamarine;
+  padding: 5px 10px;
+}
+.category-list td {
+  padding: 8px 10px;
+  border-bottom: 1px solid black;
+}
+.close {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  top: 20px;
+  right: 30px;
+}

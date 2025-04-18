@@ -1,0 +1,31 @@
+#nav-bar {
+  background-color: #83c5be;
+  height: 60px;
+  padding: 5px;
+  display: flex;
+}
+
+.logo {
+  height: 100%;
+}
+.logo img {
+  height: 100%;
+}
+.nav-tool {
+  background-color: aliceblue;
+  padding: 5px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  padding-right: 20px;
+  font-size: 12px;
+  box-shadow: 0px 2px 2px lightblue;
+}
+.nav-tool button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.nav-tool button:active {
+  color: #83c5be;
+}

@@ -1,0 +1,313 @@
+{
+  "category": [
+    {
+      "id": "0b3b",
+      "name": "Food",
+      "subCategory": [
+        "Snacks",
+        "Mess",
+        "Breakfast",
+        "Drinks",
+        "Drinks"
+      ]
+    },
+    {
+      "id": "74c7",
+      "name": "Travel",
+      "subCategory": [
+        "Petrol"
+      ]
+    },
+    {
+      "id": "4fe8",
+      "name": "Fixed Cost",
+      "subCategory": [
+        "Rent"
+      ]
+    },
+    {
+      "id": "65dc",
+      "name": "Personal",
+      "subCategory": [
+        "Saloon"
+      ]
+    },
+    {
+      "id": "1ebb",
+      "name": "Entertainment",
+      "subCategory": [
+        "Recharge"
+      ]
+    },
+    {
+      "id": "1218",
+      "name": "Fixed Cost",
+      "subCategory": [
+        "Light Bill"
+      ]
+    },
+    {
+      "id": "359e",
+      "name": "Hello",
+      "subCategory": [
+        "schjsbdhjdbc"
+      ]
+    },
+    {
+      "id": "2e05",
+      "name": "Hello",
+      "subCategory": [
+        "schjsb"
+      ]
+    },
+    {
+      "id": "1f10",
+      "categoryName": "Food",
+      "subCategories": [
+        "Mess"
+      ]
+    },
+    {
+      "id": "0f19",
+      "categoryName": "Fixed Cost",
+      "subCategories": [
+        "Rent"
+      ]
+    },
+    {
+      "id": "6877",
+      "categoryName": "Fixed Cost",
+      "subCategories": "Rent"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "6dad",
+      "category": "Travel",
+      "subCategory": "Petrol",
+      "amount": "500",
+      "date": [
+        "Mon,",
+        "03",
+        "Mar",
+        "2025",
+        "04:54:02",
+        "GMT"
+      ]
+    },
+    {
+      "id": "1b31",
+      "category": "Food",
+      "subCategory": "Mess",
+      "amount": "3000",
+      "date": [
+        "Mon,",
+        "03",
+        "Mar",
+        "2025",
+        "04:54:20",
+        "GMT"
+      ]
+    },
+    {
+      "id": "74be",
+      "category": "Fixed Cost",
+      "subCategory": "Rent",
+      "amount": "2700",
+      "date": [
+        "Mon,",
+        "03",
+        "Mar",
+        "2025",
+        "04:54:35",
+        "GMT"
+      ]
+    },
+    {
+      "id": "26ea",
+      "category": "Travel",
+      "subCategory": "Petrol",
+      "amount": "400",
+      "date": [
+        "Mon,",
+        "03",
+        "Mar",
+        "2025",
+        "04:54:48",
+        "GMT"
+      ]
+    },
+    {
+      "id": "a316",
+      "category": "Personal",
+      "subCategory": "Care Product",
+      "amount": "700",
+      "date": [
+        "Mon,",
+        "03",
+        "Mar",
+        "2025",
+        "04:54:59",
+        "GMT"
+      ]
+    },
+    {
+      "id": "87f9",
+      "category": "Food",
+      "subCategory": "Snacks",
+      "amount": "45",
+      "date": [
+        "Mon,",
+        "03",
+        "Mar",
+        "2025",
+        "04:55:28",
+        "GMT"
+      ]
+    },
+    {
+      "id": "1212",
+      "category": "Travel",
+      "subCategory": "Petrol",
+      "amount": "300",
+      "date": [
+        "Sat,",
+        "08",
+        "Mar",
+        "2025",
+        "13:54:49",
+        "GMT"
+      ]
+    },
+    {
+      "id": "07bb",
+      "category": "Personal",
+      "subCategory": "Care Product",
+      "amount": "60",
+      "date": [
+        "Sat,",
+        "08",
+        "Mar",
+        "2025",
+        "13:58:20",
+        "GMT"
+      ]
+    },
+    {
+      "id": "0956",
+      "category": "Personal",
+      "subCategory": "Saloon",
+      "amount": "250",
+      "date": [
+        "Tue,",
+        "11",
+        "Mar",
+        "2025",
+        "04:54:22",
+        "GMT"
+      ]
+    },
+    {
+      "id": "57c1",
+      "category": "Fixed Cost",
+      "subCategory": "Rent",
+      "amount": "3000",
+      "date": [
+        "Tue,",
+        "11",
+        "Mar",
+        "2025",
+        "04:54:34",
+        "GMT"
+      ]
+    },
+    {
+      "id": "c9d5",
+      "category": "Entertainment",
+      "subCategory": "Recharge ",
+      "amount": "999",
+      "date": [
+        "Tue,",
+        "11",
+        "Mar",
+        "2025",
+        "04:54:56",
+        "GMT"
+      ]
+    },
+    {
+      "id": "462b",
+      "category": "Personal",
+      "subCategories": "Saloon",
+      "amount": "3000",
+      "date": [
+        "Wed,",
+        "12",
+        "Mar",
+        "2025",
+        "04:59:58",
+        "GMT"
+      ],
+      "subCategory": "Rent"
+    },
+    {
+      "id": "088a",
+      "category": "Fixed Cost",
+      "subCategories": "Rent",
+      "amount": "3000",
+      "date": [
+        "Wed,",
+        "12",
+        "Mar",
+        "2025",
+        "05:32:46",
+        "GMT"
+      ]
+    },
+    {
+      "id": "226a",
+      "category": "Food",
+      "subCategories": "Snacks",
+      "amount": "60",
+      "date": [
+        "Wed,",
+        "12",
+        "Mar",
+        "2025",
+        "05:51:13",
+        "GMT"
+      ]
+    },
+    {
+      "id": "d683",
+      "category": "Food",
+      "subCategories": "Snacks",
+      "amount": "700",
+      "date": [
+        "Thu,",
+        "13",
+        "Mar",
+        "2025",
+        "05:08:15",
+        "GMT"
+      ]
+    },
+    {
+      "id": "8977",
+      "category": "Fixed Cost",
+      "subCategories": "Ligth Bill",
+      "amount": "300",
+      "date": [
+        "Thu,",
+        "13",
+        "Mar",
+        "2025",
+        "05:08:51",
+        "GMT"
+      ]
+    }
+  ],
+  "finance": {
+    "balance": "290005"
+  }
+}

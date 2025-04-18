@@ -1,0 +1,5 @@
+main{
+    height: calc(100vh - 86px);
+    display: flex;
+    justify-content: end;
+}

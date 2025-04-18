@@ -1,0 +1,41 @@
+
+.container{
+  height: 100vh;width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#user-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#user-profile button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#user-profile button:hover {
+  background-color: #cc0000;
+}
+
+#user-profile span {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}

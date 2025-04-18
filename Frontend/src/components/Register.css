@@ -1,0 +1,75 @@
+.container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+.register-page {
+  background-color: aliceblue;
+  box-shadow: 0px 0px 10px lightblue;
+  padding: 20px;
+  width: 350px;
+  height: 500px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 60px;
+}
+.register-page form {
+  height: 60%;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.register-page input {
+  background: transparent;
+  width: 100%;
+  padding: 10px;
+  padding-left: 0px;
+  border: none;
+  border-bottom: 2px solid gray;
+}
+.register-page input[type="submit"] {
+  background: linear-gradient(50deg, #83c5be, #006d77);
+  color: white;
+  padding: 15px 10px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0px 0px 2px lightblue;
+  border: none;
+}
+.register-page p {
+  font-size: 12px;
+}
+.register-page p span a{
+  color: #2b2bcb;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.register-page input:focus {
+  outline: none;
+  border-bottom: 2px solid violet;
+}
+.register-page input:focus::placeholder {
+  color: violet;
+}
+.register-page input[type="submit"]:focus {
+  border: none;
+  box-shadow: 0px 0px 2px darkmagenta;
+}
+
+.register-page p span a:hover {
+  color: navy;
+  user-select: none;
+  cursor: pointer;
+}
